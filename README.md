@@ -12,4 +12,4 @@ We have extracted features of breast cancer patient cells and normal person cell
 
 
 
-# XGBoost model accuracy is # 98.24%
+# XGBoost model accuracy is  98.24%
